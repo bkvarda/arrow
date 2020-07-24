@@ -16,7 +16,7 @@
 
 // Package arrjson provides types and functions to encode and decode ARROW types and data
 // to and from JSON files.
-package arrjson // import "github.com/apache/arrow/go/arrow/arrjson"
+package arrjson // import "github.com/bkvarda/arrow/go/arrow/arrjson"
 
 import (
 	"encoding/hex"

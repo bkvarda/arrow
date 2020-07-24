@@ -14,7 +14,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-package arrjson // import "github.com/apache/arrow/go/arrow/internal/arrjson"
+package arrjson // import "github.com/bkvarda/arrow/go/arrow/arrjson"
 
 import (
 	"github.com/apache/arrow/go/arrow"
