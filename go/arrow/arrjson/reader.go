@@ -24,7 +24,7 @@ import (
 	"github.com/apache/arrow/go/arrow"
 	"github.com/apache/arrow/go/arrow/array"
 	"github.com/apache/arrow/go/arrow/arrio"
-	"github.com/apache/arrow/go/arrow/internal/debug"
+	"github.com/bkvarda/arrow/go/arrow/debug"
 )
 
 type Reader struct {
